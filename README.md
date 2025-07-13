@@ -1,4 +1,4 @@
-📈 Stock Market Movement Prediction
+##📈 Stock Market Movement Prediction
 This project aims to predict stock market movements using historical stock data and exploratory data analysis techniques. The goal is to analyze key trends and prepare the data for use in machine learning models that can classify or forecast market behavior.
 
 🗂️ Project Structure
